@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drinks &#8211; Simsim Outstanding Shawarma</title>
+	<atom:link href="https://www.eatsimsim.com/product-category/drinks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.eatsimsim.com</link>
+	<description>Middle Eastern Restaurant in San Diego, CA</description>
+	<lastBuildDate>Fri, 08 May 2020 00:07:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://www.eatsimsim.com/wp-content/uploads/2020/04/Simsim-Logo-PNG-large-100x100.png</url>
+	<title>Drinks &#8211; Simsim Outstanding Shawarma</title>
+	<link>https://www.eatsimsim.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>HIBISCUS LEMONADE SLUSH $3</title>
+		<link>https://www.eatsimsim.com/product/hibiscus-lemonade-slush/</link>
+					<comments>https://www.eatsimsim.com/product/hibiscus-lemonade-slush/#respond</comments>
+		
+		<dc:creator><![CDATA[adminsimsim]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 22:13:23 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=8013</guid>
+
+					<description><![CDATA[Simsim Outstanding Shawarma secret recipe for Hibiscus lemonade slush]]></description>
+										<content:encoded><![CDATA[Simsim Outstanding Shawarma secret recipe for Hibiscus lemonade slush]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/hibiscus-lemonade-slush/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HIBISCUS LEMONADE $3</title>
+		<link>https://www.eatsimsim.com/product/hibiscus-lemonade/</link>
+					<comments>https://www.eatsimsim.com/product/hibiscus-lemonade/#respond</comments>
+		
+		<dc:creator><![CDATA[adminsimsim]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 22:10:33 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=8008</guid>
+
+					<description><![CDATA[Simsim Outstanding Shawarma secret recipe for Hibiscus lemonade]]></description>
+										<content:encoded><![CDATA[Simsim Outstanding Shawarma secret recipe for Hibiscus lemonade]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/hibiscus-lemonade/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>From The Grill &#8211; Simsim Outstanding Shawarma</title>
+	<atom:link href="https://www.eatsimsim.com/product-category/from-the-grill/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.eatsimsim.com</link>
+	<description>Middle Eastern Restaurant in San Diego, CA</description>
+	<lastBuildDate>Sun, 10 May 2020 00:29:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://www.eatsimsim.com/wp-content/uploads/2020/04/Simsim-Logo-PNG-large-100x100.png</url>
+	<title>From The Grill &#8211; Simsim Outstanding Shawarma</title>
+	<link>https://www.eatsimsim.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SIMSIM FAMILY KEBAB COMBO $49</title>
+		<link>https://www.eatsimsim.com/product/simsim-family-kebab-combo/</link>
+					<comments>https://www.eatsimsim.com/product/simsim-family-kebab-combo/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:20:49 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7709</guid>
+
+					<description><![CDATA[Two Skewers of Chicken Shish Tawook and Two Skewers of Beef &#38; Lamb Kebab. Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Serves 4.]]></description>
+										<content:encoded><![CDATA[Two Skewers of Chicken Shish Tawook and Two Skewers of Beef &#38; Lamb Kebab. Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Serves 4.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/simsim-family-kebab-combo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BEEF &#038; LAMB KEBAB $16</title>
+		<link>https://www.eatsimsim.com/product/beef-lamb-kebab/</link>
+					<comments>https://www.eatsimsim.com/product/beef-lamb-kebab/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:18:46 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7707</guid>
+
+					<description><![CDATA[Seasoned Ground Beef &#38; Lamb that is Skewered and Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Served with Tahini &#38; Tomato Sauces.]]></description>
+										<content:encoded><![CDATA[Seasoned Ground Beef &#38; Lamb that is Skewered and Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Served with Tahini &#38; Tomato Sauces.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/beef-lamb-kebab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CHICKEN SHISH TAWOOK $13</title>
+		<link>https://www.eatsimsim.com/product/chicken-shish-tawook/</link>
+					<comments>https://www.eatsimsim.com/product/chicken-shish-tawook/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:18:06 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7706</guid>
+
+					<description><![CDATA[Charbroiled Chicken Tenders Skewered and Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Served with Cucumber Yogurt &#38; Garlic Sauces.]]></description>
+										<content:encoded><![CDATA[Charbroiled Chicken Tenders Skewered and Served with our Signature Hummus, Fattoush Salad and Basmati Arabic Rice. Served with Cucumber Yogurt &#38; Garlic Sauces.]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/chicken-shish-tawook/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

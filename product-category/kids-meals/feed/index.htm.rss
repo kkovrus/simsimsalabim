@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kids Meals &#8211; Simsim Outstanding Shawarma</title>
+	<atom:link href="https://www.eatsimsim.com/product-category/kids-meals/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.eatsimsim.com</link>
+	<description>Middle Eastern Restaurant in San Diego, CA</description>
+	<lastBuildDate>Fri, 08 May 2020 12:16:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://www.eatsimsim.com/wp-content/uploads/2020/04/Simsim-Logo-PNG-large-100x100.png</url>
+	<title>Kids Meals &#8211; Simsim Outstanding Shawarma</title>
+	<link>https://www.eatsimsim.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CARVED MEAT PLATE $7.50</title>
+		<link>https://www.eatsimsim.com/product/carved-meat-plate/</link>
+					<comments>https://www.eatsimsim.com/product/carved-meat-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:33:25 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7720</guid>
+
+					<description><![CDATA[Carved Beef &#38; Lamb with Basmati Arabic Rice or Fries and Kids Drink]]></description>
+										<content:encoded><![CDATA[Carved Beef &#38; Lamb with Basmati Arabic Rice or Fries and Kids Drink]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/carved-meat-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CARVED CHICKEN PLATE $6.50</title>
+		<link>https://www.eatsimsim.com/product/carved-chicken-plate/</link>
+					<comments>https://www.eatsimsim.com/product/carved-chicken-plate/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:32:53 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7719</guid>
+
+					<description><![CDATA[Carved Chicken with Choice of Basmati Arabic Rice or Fries and Kids Drink]]></description>
+										<content:encoded><![CDATA[Carved Chicken with Choice of Basmati Arabic Rice or Fries and Kids Drink]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/carved-chicken-plate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MEAT SHAWARMA $7.50</title>
+		<link>https://www.eatsimsim.com/product/meat-shawarma/</link>
+					<comments>https://www.eatsimsim.com/product/meat-shawarma/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:31:51 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7718</guid>
+
+					<description><![CDATA[Carved Beef &#38; Lamb with choice of toppings and sauce. Served with a side of fries]]></description>
+										<content:encoded><![CDATA[Carved Beef &#38; Lamb with choice of toppings and sauce. Served with a side of fries]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/meat-shawarma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CHICKEN SHAWARMA $6.50</title>
+		<link>https://www.eatsimsim.com/product/chicken-shawarma/</link>
+					<comments>https://www.eatsimsim.com/product/chicken-shawarma/#respond</comments>
+		
+		<dc:creator><![CDATA[simsim]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 07:31:04 +0000</pubDate>
+				<guid isPermaLink="false">https://www.eatsimsim.com/?post_type=product&#038;p=7717</guid>
+
+					<description><![CDATA[Carved Chicken with choice of toppings and sauce. Served with a side of fries]]></description>
+										<content:encoded><![CDATA[Carved Chicken with choice of toppings and sauce. Served with a side of fries]]></content:encoded>
+					
+					<wfw:commentRss>https://www.eatsimsim.com/product/chicken-shawarma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
